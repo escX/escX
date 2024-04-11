@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="width: 100%;">
 <tr>
-<td colspan="1">
+<td colspan="1" style="color:red;">
 test
 </td>
 <td colspan="1">
