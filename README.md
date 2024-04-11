@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 <table border="0">
-<colgroup>
-<col span="1">
-<col span="1">
-</colgroup>
 <tr>
-<td align="center">
+<td colspan="1">
 test
 </td>
-<td>
+<td colspan="1">
 
 <!--START_SECTION:waka-->
 
