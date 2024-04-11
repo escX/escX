@@ -6,7 +6,8 @@
       test
     </td>
     <td>
-      
+
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -21,7 +22,8 @@ Other        0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
-      
+
+
     </td>  
   </tr>
 </table>
