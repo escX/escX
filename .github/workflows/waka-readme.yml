@@ -16,8 +16,15 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
           BLOCKS: -#
+          CODE_LANG: rust
           TIME_RANGE: last_30_days
+          LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
-          COMMIT_MESSAGE: Update Waka stats
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: Binary YAML JSON TOML
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
