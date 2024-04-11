@@ -2,7 +2,9 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 12 March 2024 - To: 11 April 2024
+
 Total Time: 2 hrs 53 mins
 
 Solidity     2 hrs 48 mins   ########################-   96.70 %
