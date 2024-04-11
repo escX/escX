@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 <table>
-  <tr>
-    <td align="center">
-      test
-    </td>
-    <td>
-
+<tr>
+<td align="center">
+test
+</td>
+<td>
 
 <!--START_SECTION:waka-->
 
@@ -23,9 +22,8 @@ Other        0 secs          -------------------------   00.06 %
 
 <!--END_SECTION:waka-->
 
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 
