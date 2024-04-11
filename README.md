@@ -1,7 +1,6 @@
 ### Hi there 👋
-<span>123</span>
 
-<span>
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -16,7 +15,6 @@ Other        0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
-</span>
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/?username=escX&show_icons=true&theme=buefy&hide_border=true&card_width=500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escX&layout=compact&theme=buefy&hide_border=true&card_width=500" /> |
