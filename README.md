@@ -9,6 +9,7 @@
 
 
 <!--START_SECTION:waka-->
+
 ```rust
 From: 12 March 2024 - To: 11 April 2024
 
@@ -19,6 +20,7 @@ TypeScript   5 mins          #------------------------   03.17 %
 JSON         0 secs          -------------------------   00.07 %
 Other        0 secs          -------------------------   00.06 %
 ```
+
 <!--END_SECTION:waka-->
 
 
