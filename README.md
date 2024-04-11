@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td colspan="1">
 test
