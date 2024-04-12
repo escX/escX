@@ -1,10 +1,10 @@
 ### Hi there, I'm looking for a remote job related to smart contract development.
 
 
-⚒️ skills: Typescript/React/Solidity
-📝 focusing: Blockchain
-🌱 blog: [escx](https://escx.github.io)
-💬 wechat: testyuyu
+- 🔨 skills: Typescript/React/Solidity
+- 🎯 focusing: Blockchain
+- ⭐ blog: [escx](https://escx.github.io)
+- 💬 wechat: testyuyu
 
 
 <!--START_SECTION:waka-->
