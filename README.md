@@ -3,23 +3,11 @@
 
 - 🔨 skills: Typescript/React/Solidity
 - 🎯 focusing: Blockchain
-- ⭐ blog: [escx](https://escx.github.io)
+- ⭐ blog: [esc<x>](https://escx.github.io)
 - 💬 wechat: testyuyu
 
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 12 March 2024 - To: 11 April 2024
-
-Total Time: 2 hrs 53 mins
-
-Solidity     2 hrs 48 mins   ########################-   96.70 %
-TypeScript   5 mins          #------------------------   03.17 %
-JSON         0 secs          -------------------------   00.07 %
-Other        0 secs          -------------------------   00.06 %
-```
-
 <!--END_SECTION:waka-->
 
 
