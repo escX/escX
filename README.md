@@ -12,12 +12,13 @@
 ```rust
 From: 13 March 2024 - To: 12 April 2024
 
-Total Time: 11 hrs 7 mins
+Total Time: 10 hrs 47 mins
 
 TypeScript   3 hrs 46 mins   ########-----------------   33.89 %
 Solidity     3 hrs 25 mins   ########-----------------   30.75 %
 JavaScript   3 hrs 18 mins   #######------------------   29.78 %
 Other        19 mins         #------------------------   02.88 %
+JSON         10 mins         -------------------------   01.60 %
 ```
 
 <!--END_SECTION:waka-->
