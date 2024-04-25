@@ -2,7 +2,7 @@
 
 
 - 🔨 Skills: TypeScript / React / Solidity
-- 🎯 Focusing: Blockchain
+- 🎯 Focusing: Blockchain & English Listening
 - ✏️ Blog: [esc\<x\>](https://escx.github.io)
 - 💬 Wechat: testyuyu
 
