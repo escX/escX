@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-Total Time: 27 hrs 57 mins
+Total Time: 28 hrs 44 mins
 
-Markdown     17 hrs 31 mins  ################---------   62.69 %
-TypeScript   6 hrs 34 mins   ######-------------------   23.53 %
-Solidity     1 hr 12 mins    #------------------------   04.35 %
-JavaScript   1 hr            #------------------------   03.59 %
-Other        49 mins         #------------------------   02.96 %
+Markdown     17 hrs 31 mins  ###############----------   61.00 %
+TypeScript   6 hrs 38 mins   ######-------------------   23.14 %
+Go           1 hr 48 mins    ##-----------------------   06.32 %
+Solidity     1 hr 8 mins     #------------------------   03.98 %
+JavaScript   1 hr            #------------------------   03.50 %
 ```
 
 <!--END_SECTION:waka-->
