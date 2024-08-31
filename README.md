@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 August 2024 - To: 29 August 2024
+From: 23 August 2024 - To: 30 August 2024
 
-Total Time: 13 hrs 35 mins
+Total Time: 9 hrs 54 mins
 
-TypeScript        8 hrs 29 mins   ################---------   62.51 %
-Markdown          1 hr 40 mins    ###----------------------   12.30 %
-Other             1 hr 12 mins    ##-----------------------   08.87 %
-JSON              1 hr 11 mins    ##-----------------------   08.74 %
-JavaScript        34 mins         #------------------------   04.25 %
+TypeScript        4 hrs 54 mins   ############-------------   49.53 %
+Markdown          1 hr 54 mins    #####--------------------   19.21 %
+Other             1 hr 12 mins    ###----------------------   12.17 %
+JSON              1 hr 11 mins    ###----------------------   11.96 %
+Groovy            24 mins         #------------------------   04.09 %
 ```
 
 <!--END_SECTION:waka-->
