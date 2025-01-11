@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 7 hrs 54 mins
+Total Time: 6 hrs 37 mins
 
-TypeScript        3 hrs 38 mins   ############-------------   46.10 %
-Markdown          1 hr 53 mins    ######-------------------   23.83 %
-Other             1 hr 45 mins    ######-------------------   22.19 %
-Diff              2 mins          -------------------------   00.59 %
+Markdown          2 hrs 41 mins   ##########---------------   40.55 %
+Other             1 hr 46 mins    #######------------------   26.82 %
+TypeScript        1 hr 19 mins    #####--------------------   19.94 %
+Diff              2 mins          -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
