@@ -22,7 +22,3 @@ HTTP         15 mins         -------------------------   00.66 %
 ```
 
 <!--END_SECTION:waka-->
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api/?username=escX&show_icons=true&theme=buefy&hide_border=true&card_width=500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escX&layout=compact&theme=buefy&hide_border=true&card_width=500" /> |
-| ------------- | ------------- |
