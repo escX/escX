@@ -1,10 +1,10 @@
-### Hi there👋, I'm looking for a remote job related to smart contract development.
+### Hi there👋, I'm looking for a remote job related to full stack engineer.
 
 
-- 🔨 Skills: TypeScript / React / Golang / Solidity
-- 🎯 Focusing: English Learning & Blockchain & Golang
+- 🔨 Skills: TypeScript / React / Vite / Nodejs / NestJS / Docker
+- 🎯 Focusing: English Learning & Design
 - ✏️ Blog: [esc\<x\>](https://escx.github.io)
-- 💬 Wechat: testyuyu
+- 📧 email: 1768810189@qq.com
 
 
 <!--START_SECTION:waka-->
