@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 40 hrs 17 mins
+Total Time: 42 hrs 28 mins
 
-TypeScript   35 hrs 4 mins   ######################---   87.03 %
-Markdown     2 hrs 16 mins   #------------------------   05.66 %
-Other        31 mins         -------------------------   01.32 %
-Git Config   14 mins         -------------------------   00.58 %
+TypeScript   35 hrs 52 mins  #####################----   84.46 %
+Vue.js       1 hr 36 mins    #------------------------   03.80 %
+Markdown     1 hr 7 mins     #------------------------   02.65 %
+Other        36 mins         -------------------------   01.42 %
 ```
 
 <!--END_SECTION:waka-->
