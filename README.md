@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-Total Time: 4 hrs 55 mins
+Total Time: 5 hrs 24 mins
 
-Other         4 hrs 8 mins          #####################----   84.17 %
-Image (svg)   28 mins               ##-----------------------   09.58 %
-TypeScript    4 mins                -------------------------   01.47 %
+Other         3 hrs 58 mins         ##################-------   73.64 %
+Image (svg)   1 hr 5 mins           #####--------------------   20.21 %
+TypeScript    4 mins                -------------------------   01.34 %
 Markdown      0 secs                -------------------------   00.05 %
 ```
 
